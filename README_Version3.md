@@ -1,56 +1,80 @@
-# 👋 Hi, I'm Bharath R  
+<!-- Animated Header -->
+<h1 align="center">
+  Hi there 👋, I'm <span style="color:#00FFB2">Bharath R</span>
+</h1>
+<h3 align="center">
+  🚀 Computer Science Engineering Graduate | Aspiring Full-Stack Developer
+</h3>
 
-### 🚀 Computer Science Engineering Graduate | Aspiring Full-Stack Developer  
-
-Welcome to my GitHub! I'm passionate about **software development, web technologies, and building intelligent solutions using AI/ML**. I love exploring new technologies, creating impactful projects, and writing clean, efficient code.  
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00FFB2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+In+Progress;AI+%26+Machine+Learning+Enthusiast;Love+building+real-world+projects;Open+to+Software+Development+Roles" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://bharathr-portfolio.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathr13/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharathr133)  
-[![Bento](https://img.shields.io/badge/Bento-000?style=for-the-badge&logo=linktree&logoColor=white)](https://bento.me/bharathr13)  
-[![Email](https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:12345bharathr.com@gmail.com)  
+<p align="center">
+  <a href="https://bharathr-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bharathr13/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Bharathr133"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://bento.me/bharathr13"><img src="https://img.shields.io/badge/Bento-000?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="mailto:12345bharathr.com@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Python, Java, JavaScript (ES6+), HTML5, CSS3  
-- **Frameworks & Libraries:** React.js, Flask, Django (beginner)  
-- **Databases:** MySQL, Firebase  
-- **Tools:** Git, VS Code, Netlify, GitHub Actions  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
 ## 📌 Featured Projects  
 
 ### [🌐 Portfolio Website](https://bharathr-portfolio.netlify.app/)  
-A personal portfolio built with **HTML, CSS, and JavaScript** showcasing my projects, skills, and achievements.  
+📌 A personal portfolio showcasing my **skills, projects, and achievements**.  
 
 ### [💻 Kodnest Practice Repo](https://github.com/Bharathr133/Kodnest_Practice)  
-A collection of coding exercises, assignments, and practice projects covering **HTML, CSS, and JavaScript** fundamentals to advanced concepts.  
+📌 A collection of **HTML, CSS, and JavaScript** practice codes and exercises.  
 
-### [🤖 Deep Learning & AI Projects](https://github.com/Bharathr133?tab=repositories&q=&type=&language=python&sort=)  
-Hands-on projects implementing **AI/ML algorithms** and neural networks for real-world applications.  
+### [🤖 AI/ML Projects](https://github.com/Bharathr133?tab=repositories&q=&type=&language=python&sort=)  
+📌 Hands-on projects implementing **AI/ML algorithms and deep learning** models.  
 
 ---
 
 ## 📊 GitHub Analytics  
 
-![Bharath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharathr133&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathr133&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharathr133&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathr133&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathr133&layout=compact&theme=tokyonight" height="170" />
+</p>
 
 ---
 
 ## ✨ About Me  
 
-- 🎓 **Computer Science Engineering Graduate (VTU University)**  
-- 💡 Exploring **Full-Stack Development** and **Machine Learning**  
+- 🎓 **Computer Science Engineering Graduate (VTU)**  
+- 💻 Passionate about **Full-Stack Development** and **Machine Learning**  
 - 🌱 Currently upskilling in **Java Full-Stack & Advanced DSA**  
-- 🔍 Actively seeking **Software Developer / Full-Stack Developer roles**  
-- 📫 Reach me at **12345bharathr.com@gmail.com**  
+- 🔍 Actively seeking **Software Development / Full-Stack Developer roles**  
+- ⚡ I believe in **"Code with passion, build with purpose, and never stop learning."**
 
-> _"Code with passion, build with purpose, and never stop learning."_  
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bharathr133&label=Profile+Views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+</p>
