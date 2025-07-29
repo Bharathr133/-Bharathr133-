@@ -55,12 +55,16 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Bharathr133&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharathr133&theme=tokyonight" height="170" />
+  
+  <!-- Streak Stats (alternate reliable source) -->
+  <img src="https://streak-stats.demolab.com/?user=Bharathr133&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathr133&layout=compact&theme=tokyonight" height="170" alt="IMa" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathr133&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
