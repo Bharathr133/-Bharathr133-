@@ -57,15 +57,17 @@
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Bharathr133&show_icons=true&theme=tokyonight" height="170" />
-  
-  <!-- Streak Stats (alternate reliable source) -->
-  <img src="https://streak-stats.demolab.com/?user=Bharathr133&theme=tokyonight" height="170" />
+
+  <!-- Streak Stats (NEW domain) -->
+  <img src="https://streak-stats.demolab.com?user=Bharathr133&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharathr133&layout=compact&theme=tokyonight" height="170" />
 </p>
+
+
 
 ---
 
